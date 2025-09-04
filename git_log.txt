@@ -1,0 +1,118 @@
+commit da928c6ffcf5d41ff9644ce1aa4d557301527b6e
+Author: iTrejo1 <Isaactrejo380@gmail.com>
+Date:   Thu Sep 4 00:46:40 2025 -0700
+
+    Filled blanks in index.html
+
+commit e9f48179cb452afe593bbee3f0494ed60148fbbd
+Merge: 756d4c7 7da721f
+Author: iTrejo1 <Isaactrejo380@gmail.com>
+Date:   Thu Sep 4 00:41:01 2025 -0700
+
+    Resolved merge conflict by keeping both divs
+
+commit 7da721fee1c15fedb2abd5e20c23dcc31230673e
+Author: iTrejo1 <Isaactrejo380@gmail.com>
+Date:   Thu Sep 4 00:39:34 2025 -0700
+
+    Added favorite movie/game div
+
+commit 756d4c734ac274caab2994be19d34d8806222fa4
+Author: iTrejo1 <Isaactrejo380@gmail.com>
+Date:   Thu Sep 4 00:38:51 2025 -0700
+
+    Added favorite food div
+
+commit 81c1dbaff40e70b39503e1306260110e29d9ca17
+Author: iTrejo1 <Isaactrejo380@gmail.com>
+Date:   Thu Sep 4 00:34:14 2025 -0700
+
+    Create .DS_Store
+
+commit 6040afb2b162a42c55721fbcf81e8a3d76fa9fea
+Author: iTrejo1 <Isaactrejo380@gmail.com>
+Date:   Thu Sep 4 00:18:15 2025 -0700
+
+    Added favorite movie to index.html
+
+commit c8b806c5fccbeef1b18af6fced9af7f87b404320
+Author: Isaac Trejo <158351636+iTrejo1@users.noreply.github.com>
+Date:   Thu Sep 4 00:09:36 2025 -0700
+
+    index.html
+
+commit 8b70d7b46776a582e1e441099d69c7a784343db2
+Author: Isaac Trejo <158351636+iTrejo1@users.noreply.github.com>
+Date:   Thu Sep 4 00:07:00 2025 -0700
+
+    index.html
+
+commit cae13d79399ac5c6db8dc46f08696bfbf1b13a0b
+Author: iTrejo1 <Isaactrejo380@gmail.com>
+Date:   Wed Sep 3 23:57:39 2025 -0700
+
+    Added favorite food to index.html
+
+commit 766f0f05c34a543962b32d147bb7605929f3b378
+Author: Isaac Trejo <158351636+iTrejo1@users.noreply.github.com>
+Date:   Wed Sep 3 23:47:12 2025 -0700
+
+    index.html
+
+commit 61ae66a8ac92a2ef0e1d7c209408fc636f85851e
+Author: Isaac Trejo <158351636+iTrejo1@users.noreply.github.com>
+Date:   Wed Sep 3 21:26:55 2025 -0700
+
+    index.html
+
+commit 851ab8658e1857afeb29331fbbb1338bc1bb1531
+Author: Isaac Trejo <158351636+iTrejo1@users.noreply.github.com>
+Date:   Wed Sep 3 21:24:41 2025 -0700
+
+    index.html
+
+commit f58d7cbcd6583bd87d740b707a7fc8b43a16488a
+Author: iTrejo1 <Isaactrejo380@gmail.com>
+Date:   Wed Sep 3 21:08:15 2025 -0700
+
+    Added README.md with project description
+
+commit c6dac1638d723161abab22be7fc3d8cadf1dc654
+Author: iTrejo1 <Isaactrejo380@gmail.com>
+Date:   Tue Sep 2 15:59:12 2025 -0700
+
+    Filled in blanks in index.html
+
+commit 005692bea56525896e5d143a5184d74eff7dc1ed
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Tue Sep 3 20:32:19 2024 -0700
+
+    Deleted Color About Me
+    
+    This category is not needed.
+
+commit 53c064b2416ee48889b4b837fea7f88e75e0613a
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Tue Sep 3 20:24:43 2024 -0700
+
+    Adding Feature Stating Favorite Color
+    
+    Added a category in the page to list favorite color.
+
+commit 815ac319120c6d6b840d9d5e891a4de1fa082856
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Mon Sep 2 20:25:36 2024 -0700
+
+    Complete Revamp of index.html
+    
+    Completed a css style list giving a better design to the header, and information on the page.
+    
+    Created a header to clarify when
+    
+    Created a streamline format to deliver personalized information on the about me page.
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
